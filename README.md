@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)	
+[![MasterHead](https://i.ibb.co/ZdLCzQM/2000-600px2.gif)](https://rishavchanda.io)	
 <h1 align="center">Hi 👋, I'm Wassim Benfraj</h1>
 <h3 align="center">Dynamic And Detail-oriented 𝗪𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, completing my senior year in the Private Higher School of Engineering and Technology (𝗘𝗦𝗣𝗥𝗜𝗧) while always being 𝗮𝘁 𝘁𝗵𝗲 𝘁𝗼𝗽 𝗼𝗳 𝗺𝘆 𝗰𝗹𝗮𝘀𝘀. Experienced Student with a proven ability to adapt in both self-starting and collaborative environments while staying focused on achieving high-quality results under strict deadlines.</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/19kyUfOfy7hKlZtMRJCwcOyXc4Dl_uvwg/view">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wassimbenfraj&label=Profile%20views&color=0e75b6&style=flat" alt="wassimbenfraj" /> </p>
 
