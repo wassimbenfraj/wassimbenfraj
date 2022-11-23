@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wassimbenfraj&label=Profile%20views&color=0e75b6&style=flat" alt="wassimbenfraj" /> </p>
 
-- 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on **React.js**
 
